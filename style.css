@@ -1,0 +1,21 @@
+body {
+  background-image: url("Jaquet\'s\ Coding\ Journey-logos.jpeg");
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: goldenrod;
+  text-align: left;
+}
